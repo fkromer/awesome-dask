@@ -28,6 +28,22 @@
 - [Dask Tutorial](https://tutorial.dask.org/)
 - [Parallelizing Scientific Python with Dask - SciPy 2018 Tutorial (3:20 h video)](https://www.youtube.com/watch?v=mqdglv9GnM8) - Tutorial recording.
 
+## Documentation
+
+- [API](https://docs.dask.org/en/latest/api.html)
+- Array
+  - [Design](https://docs.dask.org/en/latest/array.html#design)
+  - [Best Practices](https://docs.dask.org/en/latest/array-best-practices.html)
+- Bag
+  - [Common uses](https://docs.dask.org/en/latest/bag.html#common-uses)
+  - [Known Limitations](https://docs.dask.org/en/latest/bag.html#known-limitations)
+- DataFrame
+  - [Design](https://docs.dask.org/en/latest/dataframe.html#design)
+  - [Best Practices](https://docs.dask.org/en/latest/dataframe-best-practices.html)
+  - [Common uses and anti-uses](https://docs.dask.org/en/latest/dataframe.html#common-uses-and-anti-uses)
+- Delayed
+  - [Best Practices](https://docs.dask.org/en/latest/delayed-best-practices.html)
+
 ## Blog posts
 
 - [Ultimate guide to handle Big Datasets for Machine Learning using Dask (in Python) (August 9, 2018)](https://www.analyticsvidhya.com/blog/2018/08/dask-big-datasets-machine_learning-python/)
