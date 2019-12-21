@@ -50,6 +50,14 @@
 
 ## Presentations
 
+- Official Youtube Channel
+  - [Dask Introduction](https://www.youtube.com/watch?v=nnndxbr_Xq4)
+  - [Dask Setup: Introduction](https://www.youtube.com/watch?v=TQM9zIBzNBo)
+  - [Dask Array: Introduction](https://www.youtube.com/watch?v=9h_61hXCDuI)
+  - [Dask Bag: Introduction](https://www.youtube.com/watch?v=-qIiJ1XtSv0)
+  - [Dask DataFrame: Introduction](https://www.youtube.com/watch?v=AT2XtFehFSQ)
+  - [Dask Delayed: Introduction](https://www.youtube.com/watch?v=SHqFmynRxVU)
+  - [Dask Futures: Introduction](https://www.youtube.com/watch?v=07EiCpdhtDE)
 - [dask-image: A Library for Distributed Image Processing (SciPy 2019)](https://www.youtube.com/watch?v=XGUS174vvLs)
 - [Better and Faster Hyper Parameter Optimization with Dask (SciPy 2019)](https://www.youtube.com/watch?v=x67K9FiPFBQ)
 - [Real Time Processing and Dask (AnacondaCon 2018)](https://www.youtube.com/watch?v=7i4Gcb_-fNU)
