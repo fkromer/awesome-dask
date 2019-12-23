@@ -16,6 +16,9 @@
   - [dask-cloudprovider (pypi)](https://pypi.org/project/dask-cloudprovider/)
   - [dask-cloudprovider (docs)](https://cloudprovider.dask.org)
   - [dask-cloudprovider (source code)](https://github.com/dask/dask-cloudprovider)
+- dask-image
+  - [dask-image (docs)](https://dask-image.readthedocs.io)
+  - [dask-image (source code)](https://github.com/dask/dask-image)
 - dask-labextension
   - [dask-labextension (pypi)](https://pypi.org/project/dask-labextension/)
 - dask-memusage
