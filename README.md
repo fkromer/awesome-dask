@@ -22,6 +22,9 @@
 - dask-image
   - [dask-image (docs)](https://dask-image.readthedocs.io)
   - [dask-image (source code)](https://github.com/dask/dask-image)
+- dask-jobqueue
+  - [dask-jobqueue (docs)](https://jobqueue.dask.org)
+  - [dask-jobqueue (source code)](https://github.com/dask/dask-jobqueue)
 - dask-labextension
   - [dask-labextension (pypi)](https://pypi.org/project/dask-labextension/)
 - dask-memusage
