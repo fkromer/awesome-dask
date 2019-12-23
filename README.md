@@ -16,6 +16,8 @@
   - [dask-cloudprovider (pypi)](https://pypi.org/project/dask-cloudprovider/)
   - [dask-cloudprovider (docs)](https://cloudprovider.dask.org)
   - [dask-cloudprovider (source code)](https://github.com/dask/dask-cloudprovider)
+- dask-labextension
+  - [dask-labextension (pypi)](https://pypi.org/project/dask-labextension/)
 - dask-ml
   - [dask-ml (pypi)](https://pypi.org/project/dask-ml/)
   - [dask-ml (docs)](https://ml.dask.org/)
@@ -27,6 +29,8 @@
 - dask-rasterio
   - [dask-rasterio (pypi)](https://pypi.org/project/dask-rasterio/)
   - [dask-rasterio (source code)](https://github.com/dymaxionlabs/dask-rasterio)
+- dask-tensorflow
+  - [dask-tensorflow (pypi)](https://pypi.org/project/dask-tensorflow/)
 
 ## Cheat sheets
 
