@@ -8,6 +8,9 @@
   - [Dask (pypi)](https://pypi.org/project/dask/)
   - [Dask (docs)](https://dask.org/)
   - [Dask (source code)](https://github.com/dask/dask)
+- Dask.distributed
+  - [Dask.distributed (docs)](https://distributed.dask.org)
+  - [Dask.distributed (source code)](https://github.com/dask/distributed)
 - daskperiment
   - [daskperiment (pypi)](https://pypi.org/project/daskperiment/)
   - [daskperiment (docs)](https://daskperiment.readthedocs.io)
