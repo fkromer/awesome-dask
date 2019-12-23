@@ -20,6 +20,7 @@
   - [dask-cloudprovider (docs)](https://cloudprovider.dask.org)
   - [dask-cloudprovider (source code)](https://github.com/dask/dask-cloudprovider)
 - dask-gateway
+  - [dask-gateway (pypi)](https://pypi.org/project/dask-gateway-server/)
   - [dask-gateway (docs)](https://gateway.dask.org/)
   - [dask-gateway (source code)](https://github.com/dask/dask-gateway)
 - dask-image
