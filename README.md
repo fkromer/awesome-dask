@@ -8,6 +8,10 @@
   - [Dask (pypi)](https://pypi.org/project/dask/)
   - [Dask (docs)](https://dask.org/)
   - [Dask (source code)](https://github.com/dask/dask)
+- daskperiment
+  - [daskperiment (pypi)](https://pypi.org/project/daskperiment/)
+  - [daskperiment (docs)](https://daskperiment.readthedocs.io)
+  - [daskperiment (source code)](https://github.com/sinhrks/daskperiment)
 - dask-cloudprovider
   - [dask-cloudprovider (pypi)](https://pypi.org/project/dask-cloudprovider/)
   - [dask-cloudprovider (docs)](https://cloudprovider.dask.org)
