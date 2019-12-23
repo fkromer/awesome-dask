@@ -16,6 +16,9 @@
   - [dask-kubernetes (pypi)](https://pypi.org/project/dask-kubernetes/)
   - [dask-kubernetes (docs)](https://kubernetes.dask.org/en/latest/)
   - [dask-kubernetes (source code)](https://github.com/dask/dask-kubernetes)
+- dask-rasterio
+  - [dask-rasterio (pypi)](https://pypi.org/project/dask-rasterio/)
+  - [dask-rasterio (source code)](https://github.com/dymaxionlabs/dask-rasterio)
 
 ## Cheat sheets
 
