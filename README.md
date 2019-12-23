@@ -18,6 +18,8 @@
   - [dask-cloudprovider (source code)](https://github.com/dask/dask-cloudprovider)
 - dask-labextension
   - [dask-labextension (pypi)](https://pypi.org/project/dask-labextension/)
+- dask-memusage
+  - [dask-memusage (source code)](https://github.com/itamarst/dask-memusage)
 - dask-ml
   - [dask-ml (pypi)](https://pypi.org/project/dask-ml/)
   - [dask-ml (docs)](https://ml.dask.org/)
